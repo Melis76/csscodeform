@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title_main {
+    color: rgba(0,255,255, 0.5); /* a - в конце отвечает за прозрачность в % */
+    font-weight: 300;
+}
+
+.button_main {
+    width: 100px;
+    height: 45px;
+    display: block;
+    background-color: rgba(148,0,211, 0.7);
+}
